@@ -3,7 +3,7 @@
 
 
 body{display: flex;justify-content: center;align-items: center;}
-main{width: 1440px;height: fit-content;background-color: #F2F2F2;position: relative;}
+main{min-width: 1440px;height: fit-content;background-color: #F2F2F2;position: relative;}
 .box1{background-color: black;width: 450px;height: 799px;}
 .box1 h2{color: #FFFFFF;font-size: 96px;font-weight: 900;line-height: 88px;font-style: normal;position: absolute;top: 189px;left: 165px;width: 514px;font-family: 'Big Shoulders Display', cursive;z-index: 5;height: fit-content;margin: 0px;}
 .box2{width: 540px;height: 800px;box-sizing: border-box;position: absolute;top: 0px;right: 450px;z-index: 4;}
