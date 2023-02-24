@@ -235,7 +235,7 @@ body{display: flex;
    .box4 p{font-weight: 300;
       font-size: 22px;
       line-height: 32px;}
-   .box5{position: absolute;z-index: 12;right: 11%; top: 190px;margin: 0px;}
+   .box5{position: absolute;z-index: 12;left: 65%; top: 190px;margin: 0px;}
 
    .list{padding: 0px 165px;margin-top: 120px;}
    .wrapp1{display: flex;flex-direction: row;justify-content: space-between; margin-bottom: 11px;}
